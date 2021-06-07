@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Latest Web technologies Front-end & Back end**
 
 
-- 💬 Ask me freely about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me freely about **HTML,CSS,JAVASCRIPT NODEJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
