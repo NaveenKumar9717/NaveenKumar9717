@@ -26,6 +26,6 @@
 <p width ="400" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar9717&show_icons=true&locale=en&layout=compact" alt="naveenkumar9717" /></p>
 
 
-<p>![counter](https://[YourEndpoint].m.pipedream.net)</p>
+![counter](https://[YourEndpoint].m.pipedream.net)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar9717&show_icons=true&locale=en" alt="naveenkumar9717" /></p>
 
