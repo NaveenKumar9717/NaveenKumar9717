@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/naveen.cruz.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/naveen.cruz.1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/naveencruz20?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/naveencruz20" height="30" width="40" /></a>
+https://auth.geeksforgeeks.org/user/naveencruz/practice/  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +26,6 @@
 <p width ="400" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar9717&show_icons=true&locale=en&layout=compact" alt="naveenkumar9717" /></p>
 
 
-
+<p>![counter](https://[YourEndpoint].m.pipedream.net)</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar9717&show_icons=true&locale=en" alt="naveenkumar9717" /></p>
 
