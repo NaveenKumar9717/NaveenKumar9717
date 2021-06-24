@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm NAVEEN KUMAR</h1>
 <h3 align="center">A passionate Front-end Developer from DTU</h3>
 
-- 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 
 
 - 🌱 I’m currently learning **Latest Web technologies Front-end & Back end**
