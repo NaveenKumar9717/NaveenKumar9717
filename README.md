@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm NAVEEN KUMAR</h1>
-<h3 align="center">A passionate Front-end Developer from DTU</h3>
+<h3 align="center">A passionate Front-end and Back end Developer from DTU</h3>
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 
