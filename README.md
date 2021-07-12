@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm NAVEEN KUMAR</h1>
 <h3 align="center">A passionate Associate Developer - AI at BCS technology from DTU</h3>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT / AI ML **
+- 🔭 I’m currently working on **WEB DEVELOPMENT / AI ML**
 
 
-- 🌱 I’m currently learning **Latest Web technologies Front-end & Back end**
+- 🌱 I’m currently learning **Latest Web technologies Front-end Back end**
 
 
 - 💬 Ask me freely about **HTML,CSS,JAVASCRIPT NODEJS,REACT,EJS etc.**
