@@ -1,14 +1,14 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm NAVEEN KUMAR</h1>
-<h3 align="center">A passionate Front-end and Back end Developer from DTU</h3>
+<h3 align="center">A passionate Associate Developer at BCS technology from DTU</h3>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT**
+- 🔭 I’m currently working on **WEB DEVELOPMENT / AI ML **
 
 
 - 🌱 I’m currently learning **Latest Web technologies Front-end & Back end**
 
 
-- 💬 Ask me freely about **HTML,CSS,JAVASCRIPT NODEJS**
+- 💬 Ask me freely about **HTML,CSS,JAVASCRIPT NODEJS,REACT,EJS etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
