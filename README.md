@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm NAVEEN KUMAR</h1>
-<h3 align="center">A passionate Associate Developer - AI at BCS technology from DTU</h3>
+<h3 align="center">A passionate Associate Developer - AI at ![image](https://user-images.githubusercontent.com/52369168/125325467-991a4a00-e35e-11eb-99a8-bc59e18a0e3a.png)
+ BCS technology from DTU</h3>
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT / AI ML**
 
