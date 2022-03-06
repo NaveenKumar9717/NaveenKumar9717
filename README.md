@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knockcat" alt="knockcat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Naveen41859226" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj10483982?logo=twitter&style=for-the-badge" alt="Naveen41859226" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Naveen41859226" target="blank"><img src="https://img.shields.io/twitter/follow/Naveen41859226?logo=twitter&style=for-the-badge" alt="Naveen41859226" /></a> </p>
 
 - 🌱 I'm Currently learning **Web Development.**
 
